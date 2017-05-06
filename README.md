@@ -1,4 +1,4 @@
-# TV-Script-Generation
+# TV-Script-Simpsons
 It generates TV script of "THE SIMPSONS"
 
 I used RNN (Recurrent Neural Networks) to train my model on the 27 seasons of simpsons script.
